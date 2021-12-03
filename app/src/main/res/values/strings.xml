@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Drawing</string>
+    <string name="shake_to_delete">Shake to Delete</string>
+    <string name="string_shake_to_delete">Shake to Delete</string>
+</resources>
